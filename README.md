@@ -8,7 +8,7 @@ Esta é uma solução para o [desafio do componente do cartão de perfil no Fron
    - [O desafio](#o-desafio)
    - [Captura de tela](#captura-de-tela)
    - [Links](#links)
-   - [Como clonar projeto](Como-clonar-projeto)
+   - [Como clonar projeto](#Como-clonar-projeto)
 - [Meu processo](#meu-processo)
    - [Construído com](#construído-com)
    - [O que aprendi](#o-que-aprendi)
